@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import datetime
 import random
+import faker
 from faker import Faker
 import folium
 from streamlit_folium import st_folium
